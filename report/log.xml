@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?><testsuite errors="0" failures="0" name="pytest" skipped="0" tests="1" time="8.882"><testcase classname="pytest_tests.test_one" file="pytest_tests\test_one.py" line="3" name="test_baidu_serach" time="8.826"><system-out>2019_03_04 12_48_22
+test end!
+</system-out></testcase></testsuite>
